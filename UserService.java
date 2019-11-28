@@ -8,4 +8,5 @@ public interface UserService {
 
 
     List<Map<String,Object>> queryList();
+	void queryList2();
 }
